@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accounts>
+    <account type="current">
+        <accountNumber>1</accountNumber>
+        <balance>100.0</balance>
+        <client>
+            <lastName>Doe</lastName>
+            <firstName>John</firstName>
+        </client>
+    </account>
+    <account type="savings">
+        <accountNumber>2</accountNumber>
+        <balance>200.0</balance>
+        <client>
+            <lastName>Smith</lastName>
+            <firstName>Anna</firstName>
+        </client>
+    </account>
+</accounts>

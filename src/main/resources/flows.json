@@ -1,0 +1,27 @@
+[
+  {
+    "type": "debit",
+    "comment": "Debit 50€",
+    "amount": 50.0,
+    "targetAccount": 1
+  },
+  {
+    "type": "credit",
+    "comment": "Credit 100.5€",
+    "amount": 100.5,
+    "targetAccount": 3
+  },
+  {
+    "type": "credit",
+    "comment": "Credit 1500€",
+    "amount": 1500.0,
+    "targetAccount": 4
+  },
+  {
+    "type": "transfer",
+    "comment": "Transfer 50€ from 1 to 2",
+    "amount": 50.0,
+    "targetAccount": 2,
+    "sourceAccount": 1
+  }
+]
